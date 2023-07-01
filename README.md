@@ -1,7 +1,7 @@
 # Telebot Tutorial
 PyTelegreamBotAPI Tutorial. Ini adalah repository untuk kode yang telah kita buat di youtube.
 Jika ada belum paham bisa ditanyakan melalui contact ya teman-teman.
-# Youtube : Malas Tech
+# Youtube: Malas Tech
 # Contact.
-instagram : @wannaz.id
+instagram : @wannaz.id/n
 whatsapp : 083821903190
