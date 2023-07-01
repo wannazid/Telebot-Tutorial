@@ -3,5 +3,5 @@ PyTelegreamBotAPI Tutorial. Ini adalah repository untuk kode yang telah kita bua
 Jika ada belum paham bisa ditanyakan melalui contact ya teman-teman.
 # Youtube: Malas Tech
 # Contact.
-instagram : @wannaz.id/n
+instagram : @wannaz.id<br>
 whatsapp : 083821903190
